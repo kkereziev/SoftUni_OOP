@@ -22,8 +22,9 @@ namespace MultidimensionalArrays
 
                 }
             }
-            int bestSum = 0;
-            int[,] bestNums = new int[2, 2];
+            int bestSum = int.MinValue;
+            int selectedRow = 0;
+            int selectedCol = 0;
             for (int row = 0; row < array.GetLength(0)-1; row++)
             {
                 int sum = 0;
@@ -37,21 +38,13 @@ namespace MultidimensionalArrays
                     if (bestSum < sum)
                     {
                         bestSum = sum;
-                        bestNums[0, 0] = firstNum;
-                        bestNums[0, 1] = secondNum;
-                        bestNums[1, 0] = thirdNum;
-                        bestNums[1, 1] = fourthNum;
+                        selectedRow = row;
+                        selectedCol = col;
                     }
                 }
             }
-            for (int row = 0; row < bestNums.GetLength(0); row++)
-            {
-                for (int col = 0; col < bestNums.GetLength(1); col++)
-                {
-                    Console.Write($"{bestNums[row, col]} ");
-                }
-                Console.WriteLine();
-            }
+            Console.WriteLine($"{array[selectedRow,selectedCol]} {array[selectedRow, selectedCol+1]}");
+            Console.WriteLine($"{array[selectedRow+1, selectedCol]} {array[selectedRow+1, selectedCol+1]}");
             Console.WriteLine(bestSum);
         }
     }

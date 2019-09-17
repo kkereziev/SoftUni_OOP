@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Collections.Generic;
 
@@ -24,30 +24,23 @@ namespace MultidimensionalArrays
             }
             int bestSum = 0;
             int[,] bestNums = new int[2, 2];
-            for (int row = 0; row < array.GetLength(0); row++)
+            for (int row = 0; row < array.GetLength(0)-1; row++)
             {
                 int sum = 0;
-                for (int col = 0; col < array.GetLength(1); col++)
+                for (int col = 0; col < array.GetLength(1)-1; col++)
                 {
                     int firstNum = array[row, col];
-                    if (col + 1 <= array.GetLength(1) - 1 && row + 1 <= array.GetLength(0) - 1)
+                    int secondNum = array[row, col + 1];
+                    int thirdNum = array[row + 1, col];
+                    int fourthNum = array[row + 1, col + 1];
+                    sum = firstNum + secondNum + thirdNum + fourthNum;
+                    if (bestSum < sum)
                     {
-                        int secondNum = array[row, col + 1];
-                        int thirdNum = array[row + 1, col];
-                        int fourthNum = array[row + 1, col + 1];
-                        sum = firstNum + secondNum + thirdNum + fourthNum;
-                        if (bestSum < sum)
-                        {
-                            bestSum = sum;
-                            bestNums[0, 0] = firstNum;
-                            bestNums[0, 1] = secondNum;
-                            bestNums[1, 0] = thirdNum;
-                            bestNums[1, 1] = fourthNum;
-                        }
-                    }
-                    else
-                    {
-                        break;
+                        bestSum = sum;
+                        bestNums[0, 0] = firstNum;
+                        bestNums[0, 1] = secondNum;
+                        bestNums[1, 0] = thirdNum;
+                        bestNums[1, 1] = fourthNum;
                     }
                 }
             }

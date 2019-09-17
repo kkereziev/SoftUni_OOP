@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqaureFromMatrixWithMaximumSum", "SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum.csproj", "{436F720B-20ED-4779-910F-35737024CFA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436F720B-20ED-4779-910F-35737024CFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436F720B-20ED-4779-910F-35737024CFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436F720B-20ED-4779-910F-35737024CFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436F720B-20ED-4779-910F-35737024CFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39616F7F-7CAE-4FE0-A7BF-E5EEE48FC409}
+	EndGlobalSection
+EndGlobal

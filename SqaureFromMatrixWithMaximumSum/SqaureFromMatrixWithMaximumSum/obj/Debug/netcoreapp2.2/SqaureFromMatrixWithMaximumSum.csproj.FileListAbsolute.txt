@@ -1,0 +1,10 @@
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\bin\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.deps.json
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\bin\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.runtimeconfig.json
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\bin\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\bin\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.dll
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\bin\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.pdb
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\obj\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\obj\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\obj\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.AssemblyInfo.cs
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\obj\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.dll
+C:\Users\Krum Kereziev\source\repos\SqaureFromMatrixWithMaximumSum\SqaureFromMatrixWithMaximumSum\obj\Debug\netcoreapp2.2\SqaureFromMatrixWithMaximumSum.pdb

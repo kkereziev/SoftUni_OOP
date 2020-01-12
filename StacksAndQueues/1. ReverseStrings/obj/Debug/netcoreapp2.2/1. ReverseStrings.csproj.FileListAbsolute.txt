@@ -9,3 +9,13 @@ C:\Users\Krum Kereziev\source\repos\StacksAndQueues\1. ReverseStrings\obj\Debug\
 C:\Users\Krum Kereziev\source\repos\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.AssemblyInfo.cs
 C:\Users\Krum Kereziev\source\repos\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.dll
 C:\Users\Krum Kereziev\source\repos\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.pdb
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\bin\Debug\netcoreapp2.2\1. ReverseStrings.deps.json
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\bin\Debug\netcoreapp2.2\1. ReverseStrings.runtimeconfig.json
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\bin\Debug\netcoreapp2.2\1. ReverseStrings.runtimeconfig.dev.json
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\bin\Debug\netcoreapp2.2\1. ReverseStrings.dll
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\bin\Debug\netcoreapp2.2\1. ReverseStrings.pdb
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.AssemblyInfo.cs
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.dll
+C:\Users\admin\Desktop\SoftUni_OOP\StacksAndQueues\1. ReverseStrings\obj\Debug\netcoreapp2.2\1. ReverseStrings.pdb

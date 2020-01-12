@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krum Kereziev\\source\\repos\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj": {}
+    "C:\\Users\\admin\\Desktop\\SoftUni_OOP\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krum Kereziev\\source\\repos\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj": {
+    "C:\\Users\\admin\\Desktop\\SoftUni_OOP\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krum Kereziev\\source\\repos\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\SoftUni_OOP\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj",
         "projectName": "7.TrafficJam",
-        "projectPath": "C:\\Users\\Krum Kereziev\\source\\repos\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj",
-        "packagesPath": "C:\\Users\\Krum Kereziev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krum Kereziev\\source\\repos\\StacksAndQueues\\7.TrafficJam\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\SoftUni_OOP\\StacksAndQueues\\7.TrafficJam\\7.TrafficJam.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\SoftUni_OOP\\StacksAndQueues\\7.TrafficJam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Krum Kereziev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

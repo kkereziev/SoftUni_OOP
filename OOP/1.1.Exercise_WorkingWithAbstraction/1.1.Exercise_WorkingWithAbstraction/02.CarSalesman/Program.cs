@@ -2,11 +2,11 @@
 
 namespace _02.CarSalesman
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            RunProgram.Run();
         }
     }
 }

@@ -4,8 +4,11 @@ using System.Text;
 
 namespace _5.GreedyTimes
 {
-    public class Gold
+    public class Gold : Item
     {
-        public int Amount { get; set; }
+        public Gold(string key, long value) 
+            : base(key, value)
+        {
+        }
     }
 }

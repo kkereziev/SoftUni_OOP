@@ -4,14 +4,11 @@ using System.Text;
 
 namespace _5.GreedyTimes
 {
-    public class Gem : Itreasure
+    public class Gem : Item
     {
-        public Gem(string name, int amount)
+        public Gem(string key, long value) 
+            : base(key, value)
         {
-            this.Name = name;
-            this.Amount = amount;
         }
-        public string Name { get ; set ; }
-        public int Amount { get ; set ; }
     }
 }
